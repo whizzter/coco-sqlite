@@ -1,0 +1,29 @@
+{
+  "name": "coco-sqlite",
+  "version": "0.1.0",
+  "description": "Compact Co SQLite 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whizzter/coco-sqlite.git"
+  },
+  "keywords": [
+    "sqlite",
+    "koa",
+    "co",
+    "sql",
+    "sqlite3"
+  ],
+  "author": "Jonas Lund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whizzter/coco-sqlite/issues"
+  },
+  "homepage": "https://github.com/whizzter/coco-sqlite#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.8"
+  }
+}
