@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/whizzter/coco-sqlite#readme",
   "dependencies": {
-    "sqlite3": "^3.1.8"
+    "sqlite3": "^4.0.0"
   }
 }
