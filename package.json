@@ -1,8 +1,9 @@
 {
   "name": "coco-sqlite",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Compact Co SQLite 3",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
